@@ -5,17 +5,17 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>CFBundleGetInfoString</key>
-    <string>Solarized</string>
+    <string>Ubuntu Solarized</string>
     <key>CFBundleIdentifier</key>
     <string>org.kalnitsky.projects.empathy-solarized</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>1.0</string>
     <key>CFBundleName</key>
-    <string>Solarized</string>
+    <string>Ubuntu Solarized</string>
     <key>CFBundlePackageType</key>
     <string>AdIM</string>
     <key>DefaultFontFamily</key>
-    <string>Droid Sans</string>
+    <string>Ubuntu</string>
     <key>DefaultFontSize</key>
     <integer>12</integer>
     <key>MessageViewVersion</key>
